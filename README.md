@@ -14,6 +14,7 @@ I am a student at the **University of Information Technology (VNU-HCM)** with a 
 ---
 
 ### Highlighted Projects
+- **[Pizza Restaurant Sales Data Analysis and Report](https://github.com/yenoren11/Pizza-Restaurant-Sales):** End-to-end analysis from exploratory data analysis (EDA) to Power BI.
 - **[Bike Sales Dashboard in Europe](https://github.com/yenoren11/Bike-Sales-in-Europe):** End-to-end analysis from SQL to Power BI.
 - **[Video Game Sales Data Analysis and Report](https://github.com/yenoren11/Video-Game-Sales):** End-to-end analysis from SQL to Power BI.
 - **[Global Layoffs Analysis](https://github.com/yenoren11/Global-Layoffs-Analysis-SQL):** Comprehensive Data Cleaning using SQL Server.
